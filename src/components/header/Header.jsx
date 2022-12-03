@@ -27,7 +27,7 @@ function Header({setIsNavbarSearchActive}) {
     setSe(e.target.value)
   }
 
-
+  
 
   return (
     <header className="main-header">

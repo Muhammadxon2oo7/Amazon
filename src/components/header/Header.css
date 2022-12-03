@@ -22,9 +22,9 @@
   display: flex;
 
 }
-/* .btns__wrapper:hover{
-  border: 0PX solid ;
-} */
+.header__logo-wrapper:hover{
+  border: 1px solid var(--primary-light-color);
+}
 
 .main-header :is(div):has(select), .main-header :is(div):has(select):hover{
   border: none;

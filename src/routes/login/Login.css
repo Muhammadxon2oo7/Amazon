@@ -189,7 +189,11 @@
   .theme-btn:hover {
     width: 40px !important;
   }
-  
+  .errorHandler{
+    color:rgb(161, 53, 53);
+    font-weight: bolder;
+  }
+
   @keyframes wobble {
     0% {
       transform: scale(1.025);

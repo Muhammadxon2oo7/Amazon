@@ -56,10 +56,11 @@ const Login = () => {
               <button className='signup__btn opacity' type='submit'>{t("Log in")}</button>
             </form>
             <div class="register-forget opacity">
-              <Link to="/signup">REGISTER</Link>
+              <Link to="/signup">{t("register")}</Link>
               <Link onClick={loginWithGoogle}>Google <FcGoogle className='google__icon' /></Link>
               
             </div>
+            <p className='errorHandler'>{error}</p>
           </div>
           <div class="circle circle-two"></div>
         </div>

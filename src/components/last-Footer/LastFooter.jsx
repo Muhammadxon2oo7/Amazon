@@ -9,7 +9,7 @@ const LastFooter = () => {
                 <div className={c.list_one}>
                     <ul>
                         <li >
-                            <Link to="" className={c.link}>                                
+                            <Link to="/" className={c.link}>                                
                                 Amazon Music
                                 <span>
                                     Stream millions
@@ -18,7 +18,7 @@ const LastFooter = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link to="" className={c.link}>
+                            <Link to="/" className={c.link}>
                                 Amazon Business
                                 <span>
                                     Everything For
@@ -27,7 +27,7 @@ const LastFooter = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link to="" className={c.link}>
+                            <Link to="/" className={c.link}>
                                 Box Office Mojo
                                 <span>
                                     Find Movie
@@ -36,7 +36,7 @@ const LastFooter = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link to="" className={c.link}>
+                            <Link to="/" className={c.link}>
                             Kindle Direct 
                             Publishing
                             <span>
@@ -52,7 +52,7 @@ const LastFooter = () => {
                 <div className={c.list_one}>
                     <ul>
                         <li >
-                            <Link to="" className={c.link}>                                
+                            <Link to="/" className={c.link}>                                
                                 Amazon Advertising
                                 <span>
                                     Find, attract, and
@@ -61,7 +61,7 @@ const LastFooter = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link to="" className={c.link}>
+                            <Link to="/" className={c.link}>
                                 AmazonGlobal
                                 <span>
                                     Ship Orders
@@ -70,7 +70,7 @@ const LastFooter = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link to="" className={c.link}>
+                            <Link to="/" className={c.link}>
                                 ComiXology
                                 <span>
                                 Thousands of
@@ -79,7 +79,7 @@ const LastFooter = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link to="" className={c.link}>
+                            <Link to="/" className={c.link}>
                             Prime Video Direct
                             <span>
                                 Video Distribution
@@ -88,7 +88,7 @@ const LastFooter = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link to="" className={c.link}>
+                            <Link to="/" className={c.link}>
                             Blink
                             <span>
                             Smart Security
@@ -102,7 +102,7 @@ const LastFooter = () => {
                 <div className={c.list_one}>
                     <ul>
                         <li >
-                            <Link to="" className={c.link}>                                
+                            <Link to="/" className={c.link}>                                
                                 Amazon Advertising
                                 <span>
                                     Find, attract, and
@@ -111,7 +111,7 @@ const LastFooter = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link to="" className={c.link}>
+                            <Link to="/" className={c.link}>
                                 AmazonGlobal
                                 <span>
                                     Ship Orders
@@ -120,7 +120,7 @@ const LastFooter = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link to="" className={c.link}>
+                            <Link to="/" className={c.link}>
                                 ComiXology
                                 <span>
                                 Thousands of
@@ -129,7 +129,7 @@ const LastFooter = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link to="" className={c.link}>
+                            <Link to="/" className={c.link}>
                             Prime Video Direct
                             <span>
                                 Video Distribution
@@ -138,7 +138,7 @@ const LastFooter = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link to="" className={c.link}>
+                            <Link to="/" className={c.link}>
                             Blink
                             <span>
                             Smart Security
@@ -152,7 +152,7 @@ const LastFooter = () => {
                 <div className={c.list_one}>
                     <ul>
                         <li >
-                            <Link to="" className={c.link}>                                
+                            <Link to="/" className={c.link}>                                
                                 Amazon Advertising
                                 <span>
                                     Find, attract, and
@@ -161,7 +161,7 @@ const LastFooter = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link to="" className={c.link}>
+                            <Link to="/" className={c.link}>
                                 AmazonGlobal
                                 <span>
                                     Ship Orders
@@ -170,7 +170,7 @@ const LastFooter = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link to="" className={c.link}>
+                            <Link to="/" className={c.link}>
                                 ComiXology
                                 <span>
                                 Thousands of
@@ -179,7 +179,7 @@ const LastFooter = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link to="" className={c.link}>
+                            <Link to="/" className={c.link}>
                             Prime Video Direct
                             <span>
                                 Video Distribution
@@ -188,7 +188,7 @@ const LastFooter = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link to="" className={c.link}>
+                            <Link to="/" className={c.link}>
                             Blink
                             <span>
                             Smart Security
@@ -202,7 +202,7 @@ const LastFooter = () => {
                 <div className={c.list_one}>
                     <ul>
                         <li >
-                            <Link to="" className={c.link}>                                
+                            <Link to="/" className={c.link}>                                
                                 Amazon Advertising
                                 <span>
                                     Find, attract, and
@@ -211,7 +211,7 @@ const LastFooter = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link to="" className={c.link}>
+                            <Link to="/" className={c.link}>
                                 AmazonGlobal
                                 <span>
                                     Ship Orders
@@ -220,7 +220,7 @@ const LastFooter = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link to="" className={c.link}>
+                            <Link to="/" className={c.link}>
                                 ComiXology
                                 <span>
                                 Thousands of
@@ -229,7 +229,7 @@ const LastFooter = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link to="" className={c.link}>
+                            <Link to="/" className={c.link}>
                             Prime Video Direct
                             <span>
                                 Video Distribution
@@ -238,7 +238,7 @@ const LastFooter = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link to="" className={c.link}>
+                            <Link to="/" className={c.link}>
                             Blink
                             <span>
                             Smart Security
@@ -252,7 +252,7 @@ const LastFooter = () => {
                 <div className={c.list_one}>
                     <ul>
                         <li >
-                            <Link to="" className={c.link}>                                
+                            <Link to="/" className={c.link}>                                
                                 Amazon Advertising
                                 <span>
                                     Find, attract, and
@@ -261,7 +261,7 @@ const LastFooter = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link to="" className={c.link}>
+                            <Link to="/" className={c.link}>
                                 AmazonGlobal
                                 <span>
                                     Ship Orders
@@ -270,7 +270,7 @@ const LastFooter = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link to="" className={c.link}>
+                            <Link to="/" className={c.link}>
                                 ComiXology
                                 <span>
                                 Thousands of
@@ -279,7 +279,7 @@ const LastFooter = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link to="" className={c.link}>
+                            <Link to="/" className={c.link}>
                             Prime Video Direct
                             <span>
                                 Video Distribution
@@ -288,7 +288,7 @@ const LastFooter = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link to="" className={c.link}>
+                            <Link to="/" className={c.link}>
                             Blink
                             <span>
                             Smart Security
@@ -302,7 +302,7 @@ const LastFooter = () => {
                 <div className={c.list_one}>
                     <ul>
                         <li >
-                            <Link to="" className={c.link}>                                
+                            <Link to="/" className={c.link}>                                
                                 Amazon Advertising
                                 <span>
                                     Find, attract, and
@@ -311,7 +311,7 @@ const LastFooter = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link to="" className={c.link}>
+                            <Link to="/" className={c.link}>
                                 AmazonGlobal
                                 <span>
                                     Ship Orders
@@ -320,7 +320,7 @@ const LastFooter = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link to="" className={c.link}>
+                            <Link to="/" className={c.link}>
                                 ComiXology
                                 <span>
                                 Thousands of
@@ -329,7 +329,7 @@ const LastFooter = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link to="" className={c.link}>
+                            <Link to="/" className={c.link}>
                             Prime Video Direct
                             <span>
                                 Video Distribution
@@ -338,7 +338,7 @@ const LastFooter = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link to="" className={c.link}>
+                            <Link to="/" className={c.link}>
                             Blink
                             <span>
                             Smart Security
@@ -352,9 +352,9 @@ const LastFooter = () => {
             </div>
             <div className={c.made__info__wrpper}>
                 <div className={c.us}>
-                    <Link className={c.us__link}>Conditions of Use</Link>
-                    <Link className={c.us__link}>Privacy Notice</Link>
-                    <Link className={c.us__link}>Interest-Based Ads</Link>
+                    <Link to="/" className={c.us__link}>Conditions of Use</Link>
+                    <Link to="/" className={c.us__link}>Privacy Notice</Link>
+                    <Link to="/" className={c.us__link}>Interest-Based Ads</Link>
                 </div>
                 <div className={c.info}>
                     <p>

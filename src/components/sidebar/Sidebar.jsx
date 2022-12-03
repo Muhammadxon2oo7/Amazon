@@ -129,7 +129,7 @@ const Sidebar = ({isSidebarActive, setIsSidebarActive}) => {
             
           }
           <li  className='sidebar__item__li'>
-          <Link className='sidebar__item__link see' onClick={()=>{
+          <Link to="/" className='sidebar__item__link see' onClick={()=>{
             owerflowFun(true)
           }}>
             See All <AiFillCaretDown/>
@@ -168,7 +168,7 @@ const Sidebar = ({isSidebarActive, setIsSidebarActive}) => {
                         sidebarOpenn.one.map(sidebartypes__one =>
                           sidebartypes__one.one.map(sidebarOpenone =>
                             <li>
-                              <Link className='sidebarOpenLink'>
+                              <Link to="/" className='sidebarOpenLink'>
                                 {sidebarOpenone.title}
                               </Link>
                             </li>
@@ -181,7 +181,7 @@ const Sidebar = ({isSidebarActive, setIsSidebarActive}) => {
                         sidebarOpenn.one.map(sidebartypes__one =>
                           sidebartypes__one.one.map(sidebarOpenone =>
                             <li>
-                              <Link className='sidebarOpenLink'>
+                              <Link to="/" className='sidebarOpenLink'>
                                 {sidebarOpenone.title}
                               </Link>
                             </li>
@@ -193,7 +193,7 @@ const Sidebar = ({isSidebarActive, setIsSidebarActive}) => {
                         sidebarOpenn.one.map(sidebartypes__one =>
                           sidebartypes__one.two.map(sidebarOpenone =>
                             <li>
-                              <Link className='sidebarOpenLink'>
+                              <Link to="/" className='sidebarOpenLink'>
                                 {sidebarOpenone.title}
                               </Link>
                             </li>
@@ -207,7 +207,7 @@ const Sidebar = ({isSidebarActive, setIsSidebarActive}) => {
                         sidebarOpenn.one.map(sidebartypes__one =>
                           sidebartypes__one.two.map(sidebarOpenone =>
                             <li>
-                              <Link className='sidebarOpenLink'>
+                              <Link to="/" className='sidebarOpenLink'>
                                 {sidebarOpenone.title}
                               </Link>
                             </li>
@@ -220,7 +220,7 @@ const Sidebar = ({isSidebarActive, setIsSidebarActive}) => {
                         sidebarOpenn.one.map(sidebartypes__one =>
                           sidebartypes__one.two.map(sidebarOpenone =>
                             <li>
-                              <Link className='sidebarOpenLink'>
+                              <Link to="/" className='sidebarOpenLink'>
                                 {sidebarOpenone.title}
                               </Link>
                             </li>
@@ -232,7 +232,7 @@ const Sidebar = ({isSidebarActive, setIsSidebarActive}) => {
                         sidebarOpenn.one.map(sidebartypes__one =>
                           sidebartypes__one.two.map(sidebarOpenone =>
                             <li>
-                              <Link className='sidebarOpenLink'>
+                              <Link to="/" className='sidebarOpenLink'>
                                 {sidebarOpenone.title}
                               </Link>
                             </li>
@@ -246,7 +246,7 @@ const Sidebar = ({isSidebarActive, setIsSidebarActive}) => {
                         sidebarOpenn.one.map(sidebartypes__one =>
                           sidebartypes__one.three.map(sidebarOpenone =>
                             <li>
-                              <Link className='sidebarOpenLink'>
+                              <Link to="/" className='sidebarOpenLink'>
                                 {sidebarOpenone.title}
                               </Link>
                             </li>
@@ -259,7 +259,7 @@ const Sidebar = ({isSidebarActive, setIsSidebarActive}) => {
                         sidebarOpenn.one.map(sidebartypes__one =>
                           sidebartypes__one.three.map(sidebarOpenone =>
                             <li>
-                              <Link className='sidebarOpenLink'>
+                              <Link to="/" className='sidebarOpenLink'>
                                 {sidebarOpenone.title}
                               </Link>
                             </li>
@@ -271,7 +271,7 @@ const Sidebar = ({isSidebarActive, setIsSidebarActive}) => {
                         sidebarOpenn.one.map(sidebartypes__one =>
                           sidebartypes__one.three.map(sidebarOpenone =>
                             <li>
-                              <Link className='sidebarOpenLink'>
+                              <Link to="/" className='sidebarOpenLink'>
                                 {sidebarOpenone.title}
                               </Link>
                             </li>
@@ -314,7 +314,7 @@ const Sidebar = ({isSidebarActive, setIsSidebarActive}) => {
                   sidebarOpenn.two.map(sidebartypes__one =>
                     sidebartypes__one.one.map(sidebarOpenone =>
                       <li>
-                        <Link className='sidebarOpenLink'>
+                        <Link to="/" className='sidebarOpenLink'>
                           {sidebarOpenone.title}
                         </Link>
                       </li>
@@ -325,7 +325,7 @@ const Sidebar = ({isSidebarActive, setIsSidebarActive}) => {
                   sidebarOpenn.two.map(sidebartypes__one =>
                     sidebartypes__one.two.map(sidebarOpenone =>
                       <li>
-                        <Link className='sidebarOpenLink'>
+                        <Link to="/" className='sidebarOpenLink'>
                           {sidebarOpenone.title}
                         </Link>
                       </li>
@@ -336,7 +336,7 @@ const Sidebar = ({isSidebarActive, setIsSidebarActive}) => {
                   sidebarOpenn.one.map(sidebartypes__one =>
                     sidebartypes__one.three.map(sidebarOpenone =>
                       <li>
-                        <Link className='sidebarOpenLink'>
+                        <Link to="/" className='sidebarOpenLink'>
                           {sidebarOpenone.title}
                         </Link>
                       </li>
@@ -367,7 +367,7 @@ const Sidebar = ({isSidebarActive, setIsSidebarActive}) => {
               )
             }
             <li className='sidebar__item__li'>
-              <Link className='sidebar__item__link see' onClick={()=>{
+              <Link to="/" className='sidebar__item__link see' onClick={()=>{
               owerflowFun(false)
               }}>
               See All <AiFillCaretUp/>

@@ -29,12 +29,12 @@ const FirstFooter = () => {
                     Get to Know Us
                 </p>
                 <ul>
-                    <li><Link  className={c.link}>Careers</Link></li>
-                    <li><Link  className={c.link}>Blog</Link></li>
-                    <li><Link  className={c.link}>About Amazon</Link></li>
-                    <li><Link  className={c.link}>Investor Relations</Link></li>
-                    <li><Link  className={c.link}>Amazon Devices</Link></li>
-                    <li><Link  className={c.link}>Amazon Science</Link></li>
+                    <li><Link to="/" className={c.link}>Careers</Link></li>
+                    <li><Link to="/" className={c.link}>Blog</Link></li>
+                    <li><Link to="/" className={c.link}>About Amazon</Link></li>
+                    <li><Link to="/" className={c.link}>Investor Relations</Link></li>
+                    <li><Link to="/" className={c.link}>Amazon Devices</Link></li>
+                    <li><Link to="/" className={c.link}>Amazon Science</Link></li>
                 </ul>
             </div>
             <div className={c.link__two}>
@@ -42,14 +42,14 @@ const FirstFooter = () => {
                     Make Money with Us
                 </p>
                 <ul>
-                    <li><Link  className={c.link}>Sell products on Amazon</Link></li>
-                    <li><Link  className={c.link}>Sell on Amazon Business</Link></li>
-                    <li><Link  className={c.link}>Sell apps on Amazon</Link></li>
-                    <li><Link  className={c.link}>Become an Affiliate</Link></li>
-                    <li><Link  className={c.link}>Advertise Your Products</Link></li>
-                    <li><Link  className={c.link}>Self-Publish with Us</Link></li>
-                    <li><Link  className={c.link}>Host an Amazon Hub</Link></li>
-                    <li><Link  className={c.link}>See More Make Money with Us</Link></li>
+                    <li><Link to="/"  className={c.link}>Sell products on Amazon</Link></li>
+                    <li><Link to="/"  className={c.link}>Sell on Amazon Business</Link></li>
+                    <li><Link to="/"  className={c.link}>Sell apps on Amazon</Link></li>
+                    <li><Link to="/"  className={c.link}>Become an Affiliate</Link></li>
+                    <li><Link to="/"  className={c.link}>Advertise Your Products</Link></li>
+                    <li><Link to="/"  className={c.link}>Self-Publish with Us</Link></li>
+                    <li><Link to="/"  className={c.link}>Host an Amazon Hub</Link></li>
+                    <li><Link to="/"  className={c.link}>See More Make Money with Us</Link></li>
                 </ul>
             </div>
             <div className={c.three}>
@@ -57,10 +57,10 @@ const FirstFooter = () => {
                     Amazon Payment Products
                 </p>
                 <ul>
-                    <li><Link  className={c.link}>Amazon Business Card</Link></li>
-                    <li><Link  className={c.link}>Shop with Points</Link></li>
-                    <li><Link  className={c.link}>Reload Your Balance</Link></li>
-                    <li><Link  className={c.link}>Amazon Currency Converter</Link></li>
+                    <li><Link to="/"  className={c.link}>Amazon Business Card</Link></li>
+                    <li><Link to="/"  className={c.link}>Shop with Points</Link></li>
+                    <li><Link to="/"  className={c.link}>Reload Your Balance</Link></li>
+                    <li><Link to="/"  className={c.link}>Amazon Currency Converter</Link></li>
                 </ul>
             </div>
             <div className={c.link__four}>
@@ -68,14 +68,14 @@ const FirstFooter = () => {
                     Let Us Help You
                 </p>
                 <ul>
-                    <li><Link  className={c.link}>Amazon and COVID-19</Link></li>
-                    <li><Link  className={c.link}>Your Account</Link></li>
-                    <li><Link  className={c.link}>Your Orders</Link></li>
-                    <li><Link  className={c.link}>Shipping Rates & Policies</Link></li>
-                    <li><Link  className={c.link}>Returns & Replacements</Link></li>
-                    <li><Link  className={c.link}>Manage Your Content and Devices</Link></li>
-                    <li><Link  className={c.link}>Amazon Assistant</Link></li>
-                    <li><Link  className={c.link}>Help</Link></li>
+                    <li><Link to="/"  className={c.link}>Amazon and COVID-19</Link></li>
+                    <li><Link to="/"  className={c.link}>Your Account</Link></li>
+                    <li><Link to="/"  className={c.link}>Your Orders</Link></li>
+                    <li><Link to="/"  className={c.link}>Shipping Rates & Policies</Link></li>
+                    <li><Link to="/"  className={c.link}>Returns & Replacements</Link></li>
+                    <li><Link to="/"  className={c.link}>Manage Your Content and Devices</Link></li>
+                    <li><Link to="/"  className={c.link}>Amazon Assistant</Link></li>
+                    <li><Link to="/"  className={c.link}>Help</Link></li>
                 </ul>
             </div>
         </div>

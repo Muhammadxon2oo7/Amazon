@@ -13,6 +13,7 @@ import {Link} from "react-router-dom"
 function Header({setIsNavbarSearchActive}) {
   const { t } = useTranslation();
   const [selectedOption, setSelectedOption] = useState("all");
+  const [se, setSe] = useState("");
   const { i18n } = useTranslation();
 
   const langs = [
@@ -23,6 +24,7 @@ function Header({setIsNavbarSearchActive}) {
   
   const changeWebsiteLang = (e) => {
     i18n.changeLanguage(e.target.value || "uz");
+    setSe(e.target.value)
   }
 
 
@@ -66,11 +68,11 @@ function Header({setIsNavbarSearchActive}) {
           <UZ title="United States" className="flag" />
           :console.log("error")
         }
-        <select onChange={changeWebsiteLang} className="select">
+        <select value={se} onChange={changeWebsiteLang} className="select">
          {
 
           langs.map(langItem => 
-            <option className='option'   selected={localStorage.getItem("lang") === langItem ? true  : false} key={uuidv4()} value={langItem}>{langItem.toUpperCase()}</option>  
+            <option className='option'   defaultValue={localStorage.getItem("lang") === langItem ? true  : false} key={uuidv4()} value={langItem}>{langItem.toUpperCase()}</option>  
           )
          }
         </select>

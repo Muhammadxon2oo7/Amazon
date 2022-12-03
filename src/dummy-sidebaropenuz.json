@@ -1,0 +1,178 @@
+[
+
+    {
+        "one" :[
+            {
+                "one":[
+                    {
+                        "title":"Amazon musiqa cheksiz"
+                    },
+                    {
+                        "title": "Bepul oqim musiqa"
+                    },
+                    {
+                        "title": "Podkastlar"
+                    },
+                    {
+                        "title": "Veb-pleyerni oching"
+                    },
+                    {
+                        "title": "Veb-pleyerni oching"
+                    },
+                    {
+                        "title" : "Ilovani yuklab oling"
+                    }  
+                ],
+                "two":[
+                    {
+                        "title": "Yangi Kindle Kids"
+                    },
+                    {
+                        "title":"Yangi Kindle"
+                    },
+                    {
+                        "title" : "Kindle Paperwhite"
+                    },
+                    {
+                        "title": "Kindle Oasis"
+                    },
+                    {
+                        "title" : "Kindle Scribe bilan tanishing"
+                    },
+                    {
+                        "title" : "Aksessuarlar"
+                    },
+                    {
+                        "title" : "Barcha Kindle E-Readers-ni ko'ring"
+                    }
+                ],
+                "three":[
+                    {
+                        "title" : "Barcha ilovalar va o'yinlar "
+                    },
+                    {
+                        "title" : "O'yinlar"
+                    },
+                    {
+                        "title" : "Amazon tangalari"
+                    },
+                    {
+                        "title" : "Amazon Appstore-ni yuklab oling"
+                    },
+                    {
+                        "title" : "Amazon ilovalari"
+                    },
+                    {
+                        "title" : "Ilovalaringiz va obunalaringiz"
+                    }
+                ]
+            }
+        ],
+        "two" :[
+            {
+                "one":[
+                    {
+                        "title" : "Aksessuarlar va materiallar"
+                    },
+                    {
+                        "title" : "Kamera va surat"
+                    },
+                    {
+                        "title" : "Avtomobil va avtomobil elektronikasi"
+                    },
+                    {
+                        "title" : "Uyali telefonlar va aksessuarlar"
+                    },
+                    {
+                        "title": "Kompyuterlar va aksessuarlar"
+                    },
+                    {
+                        "title" : "GPS va navigatsiya"
+                    },
+                    {
+                        "title" : "Naushniklar"
+                    },
+                    {
+                        "title" : "Uy audio"
+                    },
+                    {
+                        "title" : "Ofis elektroniği"
+                    },
+                    {
+                        "title" : "Portativ audio va video"
+                    },
+                    {
+                        "title" : "Xavfsizlik va kuzatuv"
+                    },
+                    {
+                        "title" : "Xizmat rejalari"
+                    },
+                    {
+                        "title" : "Televizion va video"
+                    },
+                    {
+                        "title" : "Video o'yin konsollari va aksessuarlari"
+                    },
+                    {
+                        "title" : "Video proyektorlar"
+                    },
+                    {
+                        "title" : "Kiyiladigan texnologiya"
+                    },
+                    {
+                        "title" : "Elektron kitob o'qish moslamalari va aksessuarlar"
+                    }
+                ],
+                "two":[
+                    {
+                        "title" : "Kompyuter aksessuarlari va tashqi qurilmalari"
+                    },
+                    {
+                        "title" : "Kompyuter komponentlari"
+                    },
+                    {
+                        "title" : "Kompyuterlar va planshetlar"
+                    },
+                    {
+                        "title" : "Ma'lumotlarni saqlash"
+                    },
+                    {
+                        "title" : "Tashqi komponentlar"
+                    },
+                    {
+                        "title" : "Noutbuk uchun aksessuarlar"
+                    },
+                    {
+                        "title" : "Monitorlar"
+                    },
+                    {
+                        "title" : "Tarmoq mahsulotlari"
+                    },
+                    {
+                        "title" : "Quvvat chiziqlari va kuchlanishdan himoyalovchilar"
+                    },
+                    {
+                        "title" : "Printerlar"
+                    },
+                    {
+                        "title" : "Skanerlar"
+                    },
+                    {
+                        "title" : "Serverlar"
+                    },
+                    {
+                        "title" : "Planshet aksessuarlari"
+                    },
+                    {
+                        "title" : "Planshetlarni almashtirish qismlari"
+                    },
+                    {
+                        "title" : "Kafolatlar va xizmatlar"
+                    }
+
+                ]
+            }
+        ]
+    }
+
+]

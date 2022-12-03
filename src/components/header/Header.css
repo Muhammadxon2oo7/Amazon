@@ -1,0 +1,256 @@
+.main-header{
+  height: 60px;
+  background-color: var(--primary-dark-color);
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+  color: var(--primary-light-color);
+}
+
+.main-header > div{
+  padding: 0 10px;
+  height: 50px;
+  border-radius: var(--primary-border-radius);
+  border: 1px solid transparent;
+  cursor: pointer;
+}
+
+.main-header > div:not("btns__wrapper"):hover{
+  border: 1px solid var(--primary-light-color);
+}
+.btns__wrapper{
+  display: flex;
+
+}
+/* .btns__wrapper:hover{
+  border: 0PX solid ;
+} */
+
+.main-header :is(div):has(select), .main-header :is(div):has(select):hover{
+  border: none;
+  padding: 0;
+}
+
+.header__search-wrapper{
+  display: flex;
+  height: 40px !important;
+  width: clamp(200px, 773px, 773px);
+  background-color: var(--primary-light-color);
+  align-items: center;
+  border-radius: 5px !important;
+  overflow: hidden;
+  margin-right: 20px;
+  box-shadow: 1px 1px 10px transparent;
+}
+
+.header__search-wrapper :is(select, input, button){
+  height: 100%;
+  outline: none;
+  border: none;
+}
+
+.header__search-wrapper > input{
+  flex: 1;
+  text-indent: 10px;
+  font-size: 18px;
+}
+.search__input:active .header__search-wrapper{
+  box-shadow: 1px 1px 10px var(--primary-orange-color);
+}
+
+.header__search-wrapper > select{
+  border-right: 1px solid #ababab;
+}
+
+.header__search-wrapper > button{
+  background-color: var(--primary-orange-color);
+  color: #000;
+  padding: 0 20px;
+  font-size: 20px;
+}
+
+.header__logo-wrapper{
+  display: flex;
+  align-items: center;
+}
+
+.header__logo{
+  height: 37px;
+  display: block;
+}
+
+.header__delivery-address{
+  display: flex;
+  align-items: center;
+}
+
+.address-icon{
+  font-size: 25px;
+}
+
+.header__delivery-address p{
+  color: #ababab;
+  font-size: 14px;
+  padding-bottom: 4px;
+}
+.change__language{
+  width: 100px;
+  height:100%;
+  box-shadow: 10px 5px 10px rgb(15, 14, 14);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.select{
+  width:100px;
+  height:50px;
+  background-color: transparent;
+  color: #fff;
+  border: none;
+  outline: none;
+  position: relative;
+  overflow: auto;
+  display: flex;
+  justify-content: end;
+  padding-left: 40px;
+}
+
+.option{
+  background: rgb(19, 18, 18);
+  padding: 0;
+}
+.flag{
+  width: 25px;
+  z-index: 2;
+  position: absolute;
+  left: 5px;
+  background-color: red;
+}
+.option:hover{
+  background:#fff ;
+}
+.sign__upBtn{
+  width: 121px;
+  height: 48px;
+  border: 2px solid #D7DAE0;
+  border-radius: 14px;
+  background: transparent;
+  margin-left: 20px;
+}
+.signup__link{
+  width: 121px;
+  height: 48px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  
+}
+.signup__link img{
+  display: none;
+}
+.sign__upBtn:hover{
+  border: 2px solid #FEBD69;
+  color: #26CC37;
+}
+.sign__upBtn:hover .signup__link{
+  color: #FEBD69;
+}
+.sign__upBtn:hover .signup__link img{
+  display: block;
+}
+
+.more{
+  width: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media only screen and (max-width:1051px){
+ 
+  .header__delivery-address{
+    display: none;
+  }
+}
+@media only screen and (max-width:965px){
+  .signup__link{
+    font-size: 10px;
+  }
+  .sign__upBtn{
+    width: 90px;
+    display: flex;
+    justify-content: center;
+  }
+}
+@media only screen and (max-width: 821px){
+  .main-header{
+    position: relative;
+  }
+  .header__search-wrapper{
+    position: absolute;
+    top: 60px;
+    left: 0;
+    width: 90%;
+    left: 5%;
+    
+  }
+  .main-header{
+    background-color: #232E3E;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .change__language{
+    box-shadow: none;
+  }
+}
+@media only screen and (max-width: 525px){
+  .change__language{
+    width: 60px;
+  }
+  .flag{
+    width: 15px;
+  }
+  .select{
+    width: 60px;
+    padding-left: 20px;
+  }
+}
+@media only screen and (max-width: 450px){
+  .sign__upBtn{
+    width: 75px;
+    margin-right: 0;
+  }
+  .main-header{
+    padding-left: 0;
+  }
+  .signup__link{
+    font-size: 9px;
+  }
+  .btns__wrapper{
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+  }
+  .sign__upBtn{
+  padding: 0;
+  display: none;
+  }
+  .header__logo{
+    width: 50px;
+  }
+  .more{
+    display:flex;
+    width: 100%;
+  }
+  .search__input{
+    width: 70%;
+  }
+  
+}

@@ -1,0 +1,178 @@
+[
+
+    {
+        "one" :[
+            {
+                "one":[
+                    {
+                        "title":"Amazon Music Unlimited"
+                    },
+                    {
+                        "title": "Free Streaming Music"
+                    },
+                    {
+                        "title": "Podcasts"
+                    },
+                    {
+                        "title": "Open Web Player"
+                    },
+                    {
+                        "title": "Open Web Player"
+                    },
+                    {
+                        "title" : "Download the app"
+                    }  
+                ],
+                "two":[
+                    {
+                        "title": "All-new Kindle Kids"
+                    },
+                    {
+                        "title":"All-new Kindle"
+                    },
+                    {
+                        "title" : "Kindle Paperwhite"
+                    },
+                    {
+                        "title": "Kindle Oasis"
+                    },
+                    {
+                        "title" : "Introducing Kindle Scribe"
+                    },
+                    {
+                        "title" : "Accessories"
+                    },
+                    {
+                        "title" : "See all Kindle E-Readers"
+                    }
+                ],
+                "three":[
+                    {
+                        "title" : "All Apps and Games "
+                    },
+                    {
+                        "title" : "Games"
+                    },
+                    {
+                        "title" : "Amazon Coins"
+                    },
+                    {
+                        "title" : "Download Amazon Appstore"
+                    },
+                    {
+                        "title" : "Amazon Apps"
+                    },
+                    {
+                        "title" : "Your Apps and Subscriptions"
+                    }
+                ]
+            }
+        ],
+        "two" :[
+            {
+                "one":[
+                    {
+                        "title" : "Accessories & Supplies"
+                    },
+                    {
+                        "title" : "Camera & Photo"
+                    },
+                    {
+                        "title" : "Car & Vehicle Electronics"
+                    },
+                    {
+                        "title" : "Cell Phones & Accessories"
+                    },
+                    {
+                        "title": "Computers & Accessories"
+                    },
+                    {
+                        "title" : "GPS & Navigation"
+                    },
+                    {
+                        "title" : "Headphones"
+                    },
+                    {
+                        "title" : "Home Audio"
+                    },
+                    {
+                        "title" : "Office Electronics"
+                    },
+                    {
+                        "title" : "Portable Audio & Video"
+                    },
+                    {
+                        "title" : "Security & Surveillance"
+                    },
+                    {
+                        "title" : "Service Plans"
+                    },
+                    {
+                        "title" : "Television & Video"
+                    },
+                    {
+                        "title" : "Video Game Consoles & Accessories"
+                    },
+                    {
+                        "title" : "Video Projectors"
+                    },
+                    {
+                        "title" : "Wearable Technology"
+                    },
+                    {
+                        "title" : "eBook Readers & Accessories"
+                    }
+                ],
+                "two":[
+                    {
+                        "title" : "Computer Accessories & Peripherals"
+                    },
+                    {
+                        "title" : "Computer Components"
+                    },
+                    {
+                        "title" : "Computers & Tablets"
+                    },
+                    {
+                        "title" : "Data Storage"
+                    },
+                    {
+                        "title" : "External Components"
+                    },
+                    {
+                        "title" : "Laptop Accessories"
+                    },
+                    {
+                        "title" : "Monitors"
+                    },
+                    {
+                        "title" : "Networking Products"
+                    },
+                    {
+                        "title" : "Power Strips & Surge Protectors"
+                    },
+                    {
+                        "title" : "Printers"
+                    },
+                    {
+                        "title" : "Scanners"
+                    },
+                    {
+                        "title" : "Servers"
+                    },
+                    {
+                        "title" : "Tablet Accessories"
+                    },
+                    {
+                        "title" : "Tablet Replacement Parts"
+                    },
+                    {
+                        "title" : "Warranties & Services"
+                    }
+
+                ]
+            }
+        ]
+    }
+
+]

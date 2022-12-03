@@ -1,0 +1,40 @@
+
+[
+    {
+        "one" : [
+            {
+                "title" : "Amazon musiqa",
+                "id":"0"
+            },
+            {
+                "title" : "Kindle E-reader va kitoblar",
+                "id":"1"
+            },
+            {
+                "title": "Amazon ilovalar do'koni",
+                "id":"2"
+            }
+        ],
+        "two":[
+            {
+                "title" : "Elektronika"
+            }
+            
+            
+        ],
+        "seeAll":[
+            {
+                "title" : "Kompyuterlar"
+            },
+            {
+                "title": "Aqlli uy"
+            },
+            {
+                "title" : "San'at va hunarmandchilik"
+            }
+            
+        ]
+    }
+    
+]
+

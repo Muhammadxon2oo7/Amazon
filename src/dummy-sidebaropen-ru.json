@@ -1,0 +1,178 @@
+[
+
+    {
+        "one" :[
+            {
+                "one":[
+                    {
+                        "title":"Амазон музыка без ограничений"
+                    },
+                    {
+                        "title": "Бесплатная потоковая музыка"
+                    },
+                    {
+                        "title": "Подкасты"
+                    },
+                    {
+                        "title": "Открыть веб-плеер"
+                    },
+                    {
+                        "title": "Открыть веб-плеер"
+                    },
+                    {
+                        "title" : "Скачать приложение"
+                    }  
+                ],
+                "two":[
+                    {
+                        "title": "Абсолютно новый Kindle для детей"
+                    },
+                    {
+                        "title":"Абсолютно новый Kindle"
+                    },
+                    {
+                        "title" : "Kindle белая бумага"
+                    },
+                    {
+                        "title": "Разжечь оазис"
+                    },
+                    {
+                        "title" : "Представляем Kindle Scribe"
+                    },
+                    {
+                        "title" : "Аксессуары"
+                    },
+                    {
+                        "title" : "Просмотреть все электронные книги Kindle"
+                    }
+                ],
+                "three":[
+                    {
+                        "title" : "Все приложения и игры "
+                    },
+                    {
+                        "title" : "Игры"
+                    },
+                    {
+                        "title" : "Амазонские монеты"
+                    },
+                    {
+                        "title" : "Скачать магазин приложений Амазон"
+                    },
+                    {
+                        "title" : "Амазон приложений"
+                    },
+                    {
+                        "title" : "Ваши приложения и подписки"
+                    }
+                ]
+            }
+        ],
+        "two" :[
+            {
+                "one":[
+                    {
+                        "title" : "Аксессуары и расходные материалы"
+                    },
+                    {
+                        "title" : "Камера и фото"
+                    },
+                    {
+                        "title" : "Автомобильная электроника"
+                    },
+                    {
+                        "title" : "Сотовые телефоны и аксессуары"
+                    },
+                    {
+                        "title": "Компьютеры и аксессуары"
+                    },
+                    {
+                        "title" : "GPS и навигация"
+                    },
+                    {
+                        "title" : "Наушники"
+                    },
+                    {
+                        "title" : "Домашнее аудио"
+                    },
+                    {
+                        "title" : "Офисная электроника"
+                    },
+                    {
+                        "title" : "Портативное аудио и видео"
+                    },
+                    {
+                        "title" : "Безопасность и наблюдение"
+                    },
+                    {
+                        "title" : "Тарифные планы"
+                    },
+                    {
+                        "title" : "Тарифные планы"
+                    },
+                    {
+                        "title" : "Игровые приставки и аксессуары"
+                    },
+                    {
+                        "title" : "Видеопроекторы"
+                    },
+                    {
+                        "title" : "Носимые технологии"
+                    },
+                    {
+                        "title" : "Электронные книги и аксессуары"
+                    }
+                ],
+                "two":[
+                    {
+                        "title" : "Computer Accessories & Peripherals"
+                    },
+                    {
+                        "title" : "Computer Components"
+                    },
+                    {
+                        "title" : "Computers & Tablets"
+                    },
+                    {
+                        "title" : "Data Storage"
+                    },
+                    {
+                        "title" : "External Components"
+                    },
+                    {
+                        "title" : "Laptop Accessories"
+                    },
+                    {
+                        "title" : "Monitors"
+                    },
+                    {
+                        "title" : "Networking Products"
+                    },
+                    {
+                        "title" : "Power Strips & Surge Protectors"
+                    },
+                    {
+                        "title" : "Printers"
+                    },
+                    {
+                        "title" : "Scanners"
+                    },
+                    {
+                        "title" : "Servers"
+                    },
+                    {
+                        "title" : "Tablet Accessories"
+                    },
+                    {
+                        "title" : "Tablet Replacement Parts"
+                    },
+                    {
+                        "title" : "Warranties & Services"
+                    }
+
+                ]
+            }
+        ]
+    }
+
+]

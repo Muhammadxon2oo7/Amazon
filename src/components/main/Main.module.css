@@ -1,0 +1,37 @@
+.main{
+  max-width: 1440px;
+  padding: 0 20px;
+  margin: -230px auto 0 auto;
+  z-index: 2;
+  position: relative;
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+@media only screen and (max-width:1474px){
+  .main{
+    width: 90%;
+    grid-template-columns: repeat(3, 350px);
+    justify-content: space-evenly;
+    justify-items: center;
+    align-content: space-evenly;
+    align-items: center;
+    padding: 0;
+  }
+}
+@media only screen and (max-width:1090px){
+  .main{
+    grid-template-columns: repeat(3, 300px);
+  }
+}
+@media only screen and (max-width:923px){
+  .main{
+    grid-template-columns: repeat(2,1fr);
+  }
+}
+@media only screen and (max-width:500px){
+  .main{
+    grid-template-columns: repeat(1,1fr);
+  }
+}

@@ -1,0 +1,40 @@
+
+[
+    {
+        "one" : [
+            {
+                "title" : "Amazon music",
+                "id":"0"
+            },
+            {
+                "title" : "Kindle E-reader & Books",
+                "id":"1"
+            },
+            {
+                "title": "Amazon Appstore",
+                "id":"2"
+            }
+        ],
+        "two":[
+            {
+                "title" : "Electronics"
+            }
+            
+            
+        ],
+        "seeAll":[
+            {
+                "title" : "Computers"
+            },
+            {
+                "title": "Smart Home"
+            },
+            {
+                "title" : "Arts & Crafts"
+            }
+            
+        ]
+    }
+    
+]
+
